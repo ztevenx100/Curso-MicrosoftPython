@@ -13,3 +13,4 @@ Ejercicios de curso de programación en python
 - Uso de bucles "while" y "for" en Python
 - Administración de datos con diccionarios de Python
 - Funciones de Python
+- Control de errores de Python
