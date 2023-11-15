@@ -1,2 +1,12 @@
 # Curso-MicrosoftPython
 Ejercicios de curso de programación en python
+
+
+#Modulos
+- Introducción a Python en Visual Studio Code
+- Creación de sus primeros programas en Python
+- Creación y administración de proyectos en Python
+- Uso de lógica booleana en Python
+- Uso de cadenas en Python
+- Uso de operaciones matemáticas en Python
+- Introducción a las listas en Python
