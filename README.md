@@ -14,3 +14,4 @@ Ejercicios de curso de programación en python
 - Administración de datos con diccionarios de Python
 - Funciones de Python
 - Control de errores de Python
+- Introducción a los cuadernos de Jupyter para Python
