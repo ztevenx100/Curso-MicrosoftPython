@@ -2,7 +2,7 @@
 Ejercicios de curso de programación en python
 
 
-# Modulos
+## Modulos
 - Introducción a Python en Visual Studio Code
 - Creación de sus primeros programas en Python
 - Creación y administración de proyectos en Python
