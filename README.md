@@ -1,5 +1,5 @@
 # Curso-MicrosoftPython
-Ejercicios de curso de programación en python
+Ejercicios de curso de programación en python Microsoft
 
 
 ## Modulos
